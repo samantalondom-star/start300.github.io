@@ -1,0 +1,50 @@
+body{
+    background: linear-gradient(135deg, #7803ff, #f5c3f5);
+}
+h1{
+    color: rgb(41, 9, 9);
+    font-size: 70px;
+    text-align: center;
+}
+h2{
+    color: rgb(91, 2, 126);
+    text-align: center;
+    font-size: 40px;
+}
+ol{
+    font-size: 35px;
+    color: rgb(115, 18, 124);    
+}
+p{
+    color: rgb(64, 41, 85);
+    font-size: 30px;
+    text-align: center;
+}
+a{
+    color: rgb(78, 5, 121);
+    font-size: 30px;
+    text-align: center;
+}
+li{
+    color: rgb(108, 34, 131);
+    font-size: 30px;
+    text-align: center;
+}
+h3
+{
+    color: rgb(41, 9, 9);
+    font-size: 70px;
+    text-align: center;
+}
+ul {
+    font-size: 50px;
+    color: rgb(115, 18, 124);
+    text-align: center;
+    list-style: none;     
+}
+ul li::before {
+    content: "🌸";         
+    font-size: 40px;  
+}
+
+
